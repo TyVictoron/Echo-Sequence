@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "101F9DBA1D6C971400B75D4D"
-               BuildableName = "Echo Sequence.app"
+               BuildableName = "Echo Sequence.temp_caseinsensitive_rename.app"
                BlueprintName = "Echo Sequence"
                ReferencedContainer = "container:Echo Sequence.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "101F9DD11D6C971400B75D4D"
-               BuildableName = "Echo Sequence.xctest"
+               BuildableName = "Echo Sequence.temp_caseinsensitive_rename.xctest"
                BlueprintName = "Echo SequenceTests"
                ReferencedContainer = "container:Echo Sequence.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "101F9DDC1D6C971400B75D4D"
-               BuildableName = "Echo Sequence.xctest"
+               BuildableName = "Echo Sequence.temp_caseinsensitive_rename.xctest"
                BlueprintName = "Echo SequenceUITests"
                ReferencedContainer = "container:Echo Sequence.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "101F9DBA1D6C971400B75D4D"
-            BuildableName = "Echo Sequence.app"
+            BuildableName = "Echo Sequence.temp_caseinsensitive_rename.app"
             BlueprintName = "Echo Sequence"
             ReferencedContainer = "container:Echo Sequence.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "101F9DBA1D6C971400B75D4D"
-            BuildableName = "Echo Sequence.app"
+            BuildableName = "Echo Sequence.temp_caseinsensitive_rename.app"
             BlueprintName = "Echo Sequence"
             ReferencedContainer = "container:Echo Sequence.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "101F9DBA1D6C971400B75D4D"
-            BuildableName = "Echo Sequence.app"
+            BuildableName = "Echo Sequence.temp_caseinsensitive_rename.app"
             BlueprintName = "Echo Sequence"
             ReferencedContainer = "container:Echo Sequence.xcodeproj">
          </BuildableReference>

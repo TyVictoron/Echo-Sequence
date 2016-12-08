@@ -93,7 +93,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		101F9DBB1D6C971400B75D4D /* Echo Sequence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Echo Sequence.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		101F9DBB1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Echo Sequence.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		101F9DBE1D6C971400B75D4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		101F9DC01D6C971400B75D4D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		101F9DC31D6C971400B75D4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -101,10 +101,10 @@
 		101F9DC81D6C971400B75D4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		101F9DCB1D6C971400B75D4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		101F9DCD1D6C971400B75D4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		101F9DD21D6C971400B75D4D /* Echo Sequence.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Echo Sequence.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		101F9DD21D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Echo Sequence.temp_caseinsensitive_rename.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		101F9DD61D6C971400B75D4D /* DittoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DittoTests.swift; sourceTree = "<group>"; };
 		101F9DD81D6C971400B75D4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		101F9DDD1D6C971400B75D4D /* Echo Sequence.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Echo Sequence.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		101F9DDD1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Echo Sequence.temp_caseinsensitive_rename.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		101F9DE11D6C971400B75D4D /* DittoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DittoUITests.swift; sourceTree = "<group>"; };
 		101F9DE31D6C971400B75D4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		102553101D6FED820011BC2B /* GameOverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
@@ -225,9 +225,9 @@
 		101F9DBC1D6C971400B75D4D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				101F9DBB1D6C971400B75D4D /* Echo Sequence.app */,
-				101F9DD21D6C971400B75D4D /* Echo Sequence.xctest */,
-				101F9DDD1D6C971400B75D4D /* Echo Sequence.xctest */,
+				101F9DBB1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.app */,
+				101F9DD21D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */,
+				101F9DDD1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -387,7 +387,7 @@
 			);
 			name = "Echo Sequence";
 			productName = Ditto;
-			productReference = 101F9DBB1D6C971400B75D4D /* Echo Sequence.app */;
+			productReference = 101F9DBB1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
 		101F9DD11D6C971400B75D4D /* Echo SequenceTests */ = {
@@ -405,7 +405,7 @@
 			);
 			name = "Echo SequenceTests";
 			productName = DittoTests;
-			productReference = 101F9DD21D6C971400B75D4D /* Echo Sequence.xctest */;
+			productReference = 101F9DD21D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		101F9DDC1D6C971400B75D4D /* Echo SequenceUITests */ = {
@@ -423,7 +423,7 @@
 			);
 			name = "Echo SequenceUITests";
 			productName = DittoUITests;
-			productReference = 101F9DDD1D6C971400B75D4D /* Echo Sequence.xctest */;
+			productReference = 101F9DDD1D6C971400B75D4D /* Echo Sequence.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -704,7 +704,7 @@
 				INFOPLIST_FILE = Ditto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.Ditto;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -722,7 +722,7 @@
 				INFOPLIST_FILE = Ditto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.Ditto;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -735,9 +735,9 @@
 				INFOPLIST_FILE = DittoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.DittoTests;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Echo Sequence.app/Echo Sequence";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Echo Sequence.temp_caseinsensitive_rename.app/Echo Sequence.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -748,9 +748,9 @@
 				INFOPLIST_FILE = DittoTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.DittoTests;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Echo Sequence.app/Echo Sequence";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Echo Sequence.temp_caseinsensitive_rename.app/Echo Sequence.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -760,7 +760,7 @@
 				INFOPLIST_FILE = DittoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.DittoUITests;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Ditto;
 			};
@@ -772,7 +772,7 @@
 				INFOPLIST_FILE = DittoUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = XisionStudios.DittoUITests;
-				PRODUCT_NAME = "Echo Sequence";
+				PRODUCT_NAME = "Echo Sequence.temp_caseinsensitive_rename";
 				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = Ditto;
 			};

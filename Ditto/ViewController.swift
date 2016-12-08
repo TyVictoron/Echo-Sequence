@@ -208,6 +208,8 @@ class ViewController: UIViewController {
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(ViewController.update), userInfo: nil, repeats: false)
         
         backgroundMusic.stop()
+        
+        playerPattern = [Int]()
     }
     
     // plays sounds (alows for overlap)
