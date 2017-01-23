@@ -3,7 +3,7 @@
 //  Echo Sequance
 //
 //  Created by Ty Victorson on 8/23/16.
-//  Copyright © 2016 Xision. All rights reserved.
+//  Copyright © 2017 Xision. All rights reserved.
 //
 
 /*
